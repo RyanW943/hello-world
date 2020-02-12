@@ -1,0 +1,27 @@
+/* Hello World CSS */
+
+/* don't forget to validate at https://jigsaw.w3.org/css-validator/ */
+
+body {
+  background: #87CEEB;
+  font-size: 16px;
+  height: 100vh; /* trick to make the "page" the full height */
+  background-image: url("photo-of-blue-sky-912110.jpg");
+  background-size: cover;
+}
+
+p {
+    font-size: 6em;
+    color: #990000;
+}
+
+#angry-face {
+    color: #990099;
+    font-size: 100em;
+}
+
+.row {}
+
+
+
+
